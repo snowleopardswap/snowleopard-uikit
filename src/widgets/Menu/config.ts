@@ -29,9 +29,10 @@ export const links = [
     href: "/syrup",
   },
   {
-    label: "Lottery",
+    label: "Lottery (Soon)",
     icon: "TicketIcon",
     href: "/lottery",
+    disabled:true ,
   },
   {
     label: "NFT",
@@ -120,7 +121,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/snowleopardswap",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +165,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/snowleopardswap",
       },
       // {
       //   label: "Whale Alert",
