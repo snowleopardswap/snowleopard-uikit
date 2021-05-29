@@ -5,6 +5,7 @@ export interface Props {
   secondary?: boolean;
   isActive?: boolean;
   theme: DefaultTheme;
+  disabled?: boolean;
 }
 
 const rainbowAnimation = keyframes`
