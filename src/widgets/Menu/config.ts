@@ -163,10 +163,10 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/snowleopardswap",
-      },
+      // {
+      //  label: "Announcements",
+      //  href: "https://t.me/snowleopardswap",
+      // },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
